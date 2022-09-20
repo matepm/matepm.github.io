@@ -6,7 +6,7 @@
 //         btn: ["加入福利群", "好的"]
 //       },
 //       function () {
-//         window.open("https://api.2xb.cn/GroupJump/", "__blank");
+//         window.open("https://matepm.github.io/GroupJump/", "__blank");
 //       },
 //       function () {}
 // );
